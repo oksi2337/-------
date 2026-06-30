@@ -1,0 +1,6 @@
+{
+  "name": "퇴직연금 가입자 관리 프로그램",
+  "description": "퇴직연금 가입자 정보 마스킹 관리, 별도회계기관 자동 분류 및 당월 부담금 산출 MVP 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
